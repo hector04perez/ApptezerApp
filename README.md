@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Native Login Template
 
 This repo is proudly sponsored by:
@@ -47,3 +48,6 @@ In case of any questions or problems, please contact me at:
 ### Happy Coding 🚀
 
 ### [ReactNativeMarket.com](http://reactnativemarket.com/)
+=======
+# ApptezerApp
+>>>>>>> 6299bbb7107766e86fcafbf1b97b6b1ed523d423
